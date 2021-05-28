@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![commitcombo](http://commitcombo.com/get?user={Gunyoung-Kim}&theme={Perfume-mini , calendar})](https://github.com/devxb/CommitCombo)
+[![commit combo](http://commitcombo.com/get?user=Gunyoung-Kim&theme=Lake-calendar)](https://github.com/devxb/commitcombo)
